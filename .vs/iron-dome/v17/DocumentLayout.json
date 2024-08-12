@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\1\\source\\repos\\iron-dome\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|c:\\users\\1\\source\\repos\\iron-dome\\iron-dome\\views\\defense\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|solutionrelative:iron-dome\\views\\defense\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|c:\\users\\1\\source\\repos\\iron-dome\\iron-dome\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|solutionrelative:iron-dome\\utils\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|c:\\users\\1\\source\\repos\\iron-dome\\iron-dome\\models\\threatmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|solutionrelative:iron-dome\\models\\threatmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|c:\\users\\1\\source\\repos\\iron-dome\\iron-dome\\wwwroot\\css\\timer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|solutionrelative:iron-dome\\wwwroot\\css\\timer.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|c:\\users\\1\\source\\repos\\iron-dome\\iron-dome\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|solutionrelative:iron-dome\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|c:\\users\\1\\source\\repos\\iron-dome\\iron-dome\\controllers\\defensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|solutionrelative:iron-dome\\controllers\\defensecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|c:\\users\\1\\source\\repos\\iron-dome\\iron-dome\\dto\\admindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|solutionrelative:iron-dome\\dto\\admindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|c:\\users\\1\\source\\repos\\iron-dome\\iron-dome\\dto\\threatmanagmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|solutionrelative:iron-dome\\dto\\threatmanagmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|c:\\users\\1\\source\\repos\\iron-dome\\iron-dome\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|solutionrelative:iron-dome\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|c:\\users\\1\\source\\repos\\iron-dome\\iron-dome\\service\\threatmanagmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|solutionrelative:iron-dome\\service\\threatmanagmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|c:\\users\\1\\source\\repos\\iron-dome\\iron-dome\\controllers\\threatmanagmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|solutionrelative:iron-dome\\controllers\\threatmanagmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|c:\\users\\1\\source\\repos\\iron-dome\\iron-dome\\wwwroot\\js\\timer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|solutionrelative:iron-dome\\wwwroot\\js\\timer.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|c:\\users\\1\\source\\repos\\iron-dome\\iron-dome\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|solutionrelative:iron-dome\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|c:\\users\\1\\source\\repos\\iron-dome\\iron-dome\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|solutionrelative:iron-dome\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|c:\\users\\1\\source\\repos\\iron-dome\\iron-dome\\views\\threatmanagment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|solutionrelative:iron-dome\\views\\threatmanagment\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|c:\\users\\1\\source\\repos\\iron-dome\\iron-dome\\views\\threatmanagment\\addthreat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4B3708F-9A89-4E3D-93B2-905B290B39AD}|iron-dome\\iron-dome.csproj|solutionrelative:iron-dome\\views\\threatmanagment\\addthreat.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ThreatManagmentModel.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\Dto\\ThreatManagmentModel.cs",
+              "RelativeDocumentMoniker": "iron-dome\\Dto\\ThreatManagmentModel.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\Dto\\ThreatManagmentModel.cs",
+              "RelativeToolTip": "iron-dome\\Dto\\ThreatManagmentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:15:03.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "iron-dome\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "iron-dome\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-12T08:58:22.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Timer.css",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\wwwroot\\css\\Timer.css",
+              "RelativeDocumentMoniker": "iron-dome\\wwwroot\\css\\Timer.css",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\wwwroot\\css\\Timer.css",
+              "RelativeToolTip": "iron-dome\\wwwroot\\css\\Timer.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-08-12T08:53:15.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Timer.js",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\wwwroot\\js\\Timer.js",
+              "RelativeDocumentMoniker": "iron-dome\\wwwroot\\js\\Timer.js",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\wwwroot\\js\\Timer.js",
+              "RelativeToolTip": "iron-dome\\wwwroot\\js\\Timer.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-08-12T08:52:13.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThreatModel.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\Models\\ThreatModel.cs",
+              "RelativeDocumentMoniker": "iron-dome\\Models\\ThreatModel.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\Models\\ThreatModel.cs",
+              "RelativeToolTip": "iron-dome\\Models\\ThreatModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:48:25.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\Views\\Defense\\Index.cshtml",
+              "RelativeDocumentMoniker": "iron-dome\\Views\\Defense\\Index.cshtml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\Views\\Defense\\Index.cshtml",
+              "RelativeToolTip": "iron-dome\\Views\\Defense\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T08:34:11.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "iron-dome\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "iron-dome\\Controllers\\AdminController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:33:32.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DefenseController.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\Controllers\\DefenseController.cs",
+              "RelativeDocumentMoniker": "iron-dome\\Controllers\\DefenseController.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\Controllers\\DefenseController.cs",
+              "RelativeToolTip": "iron-dome\\Controllers\\DefenseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:33:28.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\Utils\\Utils.cs",
+              "RelativeDocumentMoniker": "iron-dome\\Utils\\Utils.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\Utils\\Utils.cs",
+              "RelativeToolTip": "iron-dome\\Utils\\Utils.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:28:57.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminDto.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\Dto\\AdminDto.cs",
+              "RelativeDocumentMoniker": "iron-dome\\Dto\\AdminDto.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\Dto\\AdminDto.cs",
+              "RelativeToolTip": "iron-dome\\Dto\\AdminDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T09:15:09.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "iron-dome\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "iron-dome\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T09:37:44.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ThreatManagmentController.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\Controllers\\ThreatManagmentController.cs",
+              "RelativeDocumentMoniker": "iron-dome\\Controllers\\ThreatManagmentController.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\Controllers\\ThreatManagmentController.cs",
+              "RelativeToolTip": "iron-dome\\Controllers\\ThreatManagmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:23:40.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ThreatManagmentService.cs",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\Service\\ThreatManagmentService.cs",
+              "RelativeDocumentMoniker": "iron-dome\\Service\\ThreatManagmentService.cs",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\Service\\ThreatManagmentService.cs",
+              "RelativeToolTip": "iron-dome\\Service\\ThreatManagmentService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-12T08:23:36.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "iron-dome\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "iron-dome\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T08:38:17.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AddThreat.cshtml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\Views\\ThreatManagment\\AddThreat.cshtml",
+              "RelativeDocumentMoniker": "iron-dome\\Views\\ThreatManagment\\AddThreat.cshtml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\Views\\ThreatManagment\\AddThreat.cshtml",
+              "RelativeToolTip": "iron-dome\\Views\\ThreatManagment\\AddThreat.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T08:34:17.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\Views\\ThreatManagment\\Index.cshtml",
+              "RelativeDocumentMoniker": "iron-dome\\Views\\ThreatManagment\\Index.cshtml",
+              "ToolTip": "C:\\Users\\1\\source\\repos\\iron-dome\\iron-dome\\Views\\ThreatManagment\\Index.cshtml",
+              "RelativeToolTip": "iron-dome\\Views\\ThreatManagment\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-12T08:34:19.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

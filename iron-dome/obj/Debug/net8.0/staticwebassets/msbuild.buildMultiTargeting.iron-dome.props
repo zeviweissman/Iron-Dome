@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\iron-dome.props" />
+</Project>

@@ -1,0 +1,55 @@
+﻿@model List<iron_dome.Dto.ThreatManagmentModel>
+
+
+   
+<table id="reload">
+    <thead>
+        <tr>
+            <th>Source</th>
+            <th>Type</th>
+            <th>Target</th>
+            <th>Count</th>            
+            <th>Time</th>
+            <th>Defend</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (iron_dome.Dto.ThreatManagmentModel threat in Model)
+        {
+            <tr>
+                <td>@threat.ThreatSource</td>
+                <td>@threat.ThreatType</td>
+                <td>@threat.ThreatTarget</td>
+                <td>@threat.ThreatCount</td>               
+                <td>
+                    <div id="timer">
+                        <script>
+                            document.addEventListener('DOMContentLoaded', function () {
+                                startTimer(@iron_dome.Utils.Utils.GetResponseTime(threat));
+                            });
+                            </script>
+                    
+                    </div>
+                    </td>
+                <td>
+                <a asp-action="Intercept" asp-route-id="@threat.Id">Intercept</a> 
+                </td>
+            </tr>
+        }
+
+        
+
+    </tbody>
+</table>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script type="text/javascript">
+    $(document).ready(function () {
+        setInterval(loadView, 100); 
+
+        function loadView() {
+            $("#reload").load("/Defense/Index");
+        }
+    });
+</script>

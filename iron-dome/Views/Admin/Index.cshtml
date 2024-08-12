@@ -1,0 +1,34 @@
+﻿@model iron_dome.Dto.AdminDto
+
+<h1>Missle count</h1>
+<p>@ViewBag.Amount</p>
+
+
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Update">
+            @Html.AntiForgeryToken()
+            <div class="form-group">
+                <label class="control-label">Please choose amount of missiles to add or remove</label>
+                <input asp-for="MissileAmount" class="form-control" value="0"/>
+                <span asp-validation-for="MissileAmount" class="text-danger" ></span>
+            </div>           
+            <div class="form-group">
+              <input type="submit" value="Update" class="btn btn-primary" />
+                
+            </div>
+        </form>
+    </div>
+</div>
+
+@if (TempData["Error"] != null)
+{
+<div class="alert alert-danger">
+   
+    <ul>
+        <li>@TempData["Error"]</li>
+    </ul>
+    
+</div>
+}

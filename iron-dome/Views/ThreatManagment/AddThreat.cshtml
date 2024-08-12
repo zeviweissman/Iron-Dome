@@ -1,0 +1,38 @@
+﻿@model iron_dome.Dto.ThreatManagmentModel
+
+
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="AddThreat">
+            <div class="form-group">
+                <label asp-for="ThreatSource" class="control-label" ></label>
+                <select asp-for="ThreatSource" class="form-control" asp-items="@Html.GetEnumSelectList<ThreatSource>()"></select>
+                <span asp-validation-for="ThreatSource" class="text-danger" ></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ThreatType" class="control-label"></label>
+                <select asp-for="ThreatType" class="form-control" asp-items="@Html.GetEnumSelectList<ThreatType>()"></select>
+                <span asp-validation-for="ThreatType" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ThreatCount" class="control-label"></label>
+                <input asp-for="ThreatCount" class="form-control" value="1" />
+                <span asp-validation-for="ThreatCount" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="ThreatTarget" class="control-label"></label>
+                <select asp-for="ThreatTarget" class="form-control" asp-items="@Html.GetEnumSelectList<ThreatTarget>()"></select>
+                <span asp-validation-for="ThreatTarget" class="text-danger"></span>
+                
+            </div>
+            
+            <div class="form-group">
+                <input type="submit" value="Add Threat" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+                @section Scripts {
+                    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+                }

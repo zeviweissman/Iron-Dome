@@ -1,0 +1,39 @@
+﻿@model iron_dome.Dto.AdminDto
+
+
+<table>
+    <thead>
+        <tr>
+            <th>Source</th>
+            <th>Type</th>
+            <th>Target</th>
+            <th>Count</th>
+            <th>Status</th>
+            <th>Controllers</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (iron_dome.Dto.ThreatManagmentModel threat in Model.ActiveThreats)
+        {
+            <tr>
+                <td>@threat.ThreatSource</td>
+                <td>@threat.ThreatType</td>
+                <td>@threat.ThreatTarget</td>
+                <td>@threat.ThreatCount</td>
+                <td>@threat.IsActive</td>
+                <td>                                          
+                  <a asp-action="Launch" asp-route-id="@threat.Id">Launch</a> |                    
+                  <a asp-action="DeleteThreat" asp-route-id="@threat.Id">Delete</a>                      
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+
+
+
+
+<form action="ThreatManagment/AddThreat">
+	<input type="submit" value="Add threat" />
+</form>
